@@ -1,0 +1,9 @@
+README.md
+saveme.py
+setup.py
+Save_me.egg-info/PKG-INFO
+Save_me.egg-info/SOURCES.txt
+Save_me.egg-info/dependency_links.txt
+Save_me.egg-info/entry_points.txt
+Save_me.egg-info/requires.txt
+Save_me.egg-info/top_level.txt
