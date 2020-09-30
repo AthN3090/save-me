@@ -58,12 +58,12 @@ saveme [-u user] -da
 
 ## Tech stack :
 ### server
-* Express
-* Multer middleware
-* Firebase
+* [Express](https://expressjs.com/)
+* [Multer middleware](http://expressjs.com/en/resources/middleware/multer.html)
+* [Firebase](https://firebase.google.com/)
 ### client-side
-* Python
-* Click API
+* [Python](https://www.python.org/)
+* [Click API](https://click.palletsprojects.com/en/7.x/)
 
 ## Authors
 
