@@ -19,3 +19,36 @@ pip install .
 ```
 saveme -r
 ```
+![registeration](Screenshots/save-me-reg.gif)
+
+* File upload
+```
+saveme [-u user] [-f filename]
+```
+![file-upload](/Screenshots/save-me-upload.gif)
+
+
+* Download file
+```
+saveme [-u user] [-s filename]
+```
+![file-save](/Screenshots/saveme-save.gif)
+
+
+* List files
+```
+saveme [-u user] -l
+```
+![file-list](/Screenshots/saveme-listfile.gif)
+
+* Delete file
+```
+saveme [-u user] [-d filename]
+```
+![file-delete](/Screenshots/save-me-upload.gif)
+
+* Delete all files
+```
+saveme [-u user] -da
+```
+![file-deleteall](/Screenshots/save-me-empty.gif)
