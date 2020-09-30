@@ -14,7 +14,7 @@ pip install .
 ```
 # How to use
 
-* User Registeration 
+* User registeration 
 ```
 saveme -r
 ```
