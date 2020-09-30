@@ -55,3 +55,16 @@ saveme [-u user] [-d filename]
 saveme [-u user] -da
 ```
 ![file-deleteall](/Screenshots/saveme-empty.gif)
+
+## Tech stack :
+### server
+* Express
+* Multer middleware
+* Firebase
+### client-side
+* Python
+* Click API
+
+## Authors
+
+* **Aman Dev Chowdhary**
