@@ -4,8 +4,11 @@ save-me is a command-line tool for saving your work files with just a single com
 * clone the repository
 ```
 git clone https://github.com/AthN3090/save-me
-
+```
+```
 cd save-me
 ```
 * setup
-```pip install .```
+```
+pip install .
+```
