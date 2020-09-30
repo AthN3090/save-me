@@ -51,4 +51,4 @@ saveme [-u user] [-d filename]
 ```
 saveme [-u user] -da
 ```
-![file-deleteall](/Screenshots/save-me-empty.gif)
+![file-deleteall](/Screenshots/saveme-empty.gif)
