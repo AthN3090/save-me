@@ -1,8 +1,8 @@
 # save-me
-save-me is a command-line tool for saving your work files with just a single command through your terminal to common cloud space. Users are required to register for the application. Upon registration, users can upload, list and delete files on the common cloud space with specific terminal commands. The application uses python for command-line interface and the server code is written in Express. 
-<br />
-![front](/Screenshots/saveme-front.png)
-<br />
+save-me is a command-line tool for saving your work files with just a single command through your terminal to common cloud space. Users are required to register for the application. Upon registration, users can upload, list and delete files on the common cloud space with specific terminal commands. The application uses python for command-line interface and the server code is written in Express.\
+
+![front](/Screenshots/saveme-front.png) \
+
 ![help](/Screenshots/help.png)
 # Installation
 * clone the repository
