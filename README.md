@@ -12,3 +12,9 @@ cd save-me
 ```
 pip install .
 ```
+# How to use
+
+* User Registeration 
+```
+saveme -r
+```
