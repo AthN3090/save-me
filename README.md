@@ -45,7 +45,7 @@ saveme [-u user] -l
 ```
 saveme [-u user] [-d filename]
 ```
-![file-delete](/Screenshots/save-me-upload.gif)
+![file-delete](/Screenshots/save-me-delete.gif)
 
 * Delete all files
 ```
