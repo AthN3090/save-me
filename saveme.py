@@ -13,7 +13,7 @@ from getpass import getpass
 @click.option("-u","--username","username", help="username of a registered user", metavar="<string>")
 @click.option("-f","--file","path", help="name of the zip containing files to be saved", metavar="<string>")
 #@click.option("-n","--name","final_name", help="name for the final output final",metavar="<string>")
-@click.option("-r","--register","register", is_flag=True, help="new user registeration")
+@click.option("-r","--register","register", is_flag=True, help="new user registration")
 @click.option("-l","--list","list_files",is_flag=True, help="List all the files from the cloud")
 @click.option("-s","--save","save", help="name of the file to be downloaded")
 @click.option("-da","--deleteall","delall",is_flag=True,help="empty the cloud directory")
